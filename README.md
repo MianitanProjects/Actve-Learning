@@ -14,10 +14,10 @@ Computer Science
 Programming
 -Coding
 Learning
- -Tryhackme
- -CompTIA Pentest+
- -Hack the Box
--Main Notes
+ - Tryhackme
+ - CompTIA Pentest+
+ - Hack the Box
+ - Main Notes
 Web Development
 -Resource Docs
 
