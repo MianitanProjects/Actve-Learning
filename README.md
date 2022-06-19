@@ -12,12 +12,13 @@ Computer Science
 - HarvardX CS50x CS50's Introduction to Computer Science
 
 Programming
--Coding
+Coding
+ - Main Notes
 Learning
  - Tryhackme
  - CompTIA Pentest+
  - Hack the Box
- - Main Notes
+
 Web Development
 -Resource Docs
 
