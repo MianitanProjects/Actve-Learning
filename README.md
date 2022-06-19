@@ -13,11 +13,11 @@ Computer Science
 
 Programming
 Coding
- - Main Notes
+- Main Notes
 Learning
- - Tryhackme
- - CompTIA Pentest+
- - Hack the Box
+- Tryhackme
+- CompTIA Pentest+
+- Hack the Box
 
 Web Development
 - Resource Docs
