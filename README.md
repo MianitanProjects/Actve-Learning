@@ -20,6 +20,6 @@ Learning
  - Hack the Box
 
 Web Development
--Resource Docs
+- Resource Docs
 
 This markdown readme will be updated over time.
